@@ -1,0 +1,29 @@
+
+---
+title: "Sales Analysis"
+author: "Mohamad Mohamud"
+output: html_document
+---
+
+# Introduction
+
+This report explores a fictional sales dataset using R.
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Sales Data
+
+```{r}
+sales <- data.frame(
+  product = c("A", "B", "C"),
+  revenue = c(1200, 1500, 900)
+)
+
+sales
+```
+
+# Summary
+
+The dataset contains three products and their sales revenue.
