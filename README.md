@@ -1,4 +1,18 @@
-# BDA400 - Markdown Buddy
+## Assignment 2 – Technical Analysis Using R
+
+**Course:** BDA400 – Business Data Analytics
+
+### Project Description
+This assignment focuses on using R to perform preliminary technical analysis of stock market data.
+
+### Project File
+- `technical-analysis (1).R` – R script for stock data analysis.
+
+### Tools Used
+- R and RStudio
+- quantmod
+- TTR
+- GitHub# BDA400 - Markdown Buddy
 
 **Student:** Mohamad Mohamud  
 **Course:** BDA400 - Business Data Analytics  
@@ -13,7 +27,21 @@ This project demonstrates how to use R Markdown to create a professional sales a
 - `Mohamud_Mohamad_CA_BDA400_A01.docx` - Assignment document.
 
 ## Tools Used
+- R and RStudio## Assignment 2 – Technical Analysis Using R
+
+**Course:** BDA400 – Business Data Analytics
+
+### Project Description
+This assignment focuses on using R to perform preliminary technical analysis of stock market data.
+
+### Project File
+- `technical-analysis (1).R` – R script for stock data analysis.
+
+### Tools Used
 - R and RStudio
+- quantmod
+- TTR
+- GitHub
 - Posit Cloud
 - R Markdown
 - GitHub
