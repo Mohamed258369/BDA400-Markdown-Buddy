@@ -1,8 +1,8 @@
 # BDA400 – Markdown Buddy Reflection
 
-**1. Using AI**
+**1. Using 
 
-ChatGPT helped me create and organize my README and R Markdown documentation. Clear prompts helped me get better results.
+me create and organize my README and R Markdown documentation. Clear prompts helped me get better results.
 
 **2. Challenges and Verification**
 
